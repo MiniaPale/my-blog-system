@@ -2,6 +2,9 @@
 
 一个现代化的全栈博客系统，使用 Django REST Framework 作为后端 API，Vue 3 作为前端框架。
 
+项目使用方法：先把backend文件夹里面的内容取出来放在根目录下面先使用经典的django的数据库迁移命令两行，pycharm运行配置，就可以直接运行。
+前端的内容单独放在文件夹里面，同样可以直接运行。两个一起运行就可以了。
+
 ## 📁 项目结构
 my-blog-system/  我的博客系统/
 ├── backend/ # Django 后端
