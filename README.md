@@ -1,9 +1,18 @@
-# Django + Vue.js 博客系统（前后端分离）
+<img width="2573" height="1543" alt="{E0BF04E5-D6A3-41E9-ACB4-D1BE4C7AA804}" src="https://github.com/user-attachments/assets/dc3116ef-0fd8-47a0-abda-9713e17a0d68" /># Django + Vue.js 博客系统（前后端分离）
 
 一个现代化的全栈博客系统，使用 Django REST Framework 作为后端 API，Vue 3 作为前端框架。
 
 项目使用方法：先把backend文件夹里面的内容取出来放在根目录下面先使用经典的django的数据库迁移命令两行，pycharm运行配置，就可以直接运行。
 前端的内容单独放在文件夹里面，同样可以直接运行。两个一起运行就可以了。
+
+前端页面：
+<img width="3281" height="1702" alt="{D75D341C-097E-4C35-B0BA-637D243D460A}" src="https://github.com/user-attachments/assets/37781212-15d7-4d4c-98a2-d2bb24b09bad" />
+<img width="3160" height="1471" alt="{81889A27-752D-4BF9-9C34-F5B5AE44F540}" src="https://github.com/user-attachments/assets/01d707ca-c512-49c3-8d49-58e2f2970fc5" />
+<img width="2305" height="1318" alt="{7B7DFD5B-3A4F-424F-8DCB-A2C856C037AA}" src="https://github.com/user-attachments/assets/5eaf8a1c-23e0-4904-89ee-00b0980e0711" />
+
+后端页面：
+<img width="2986" height="1601" alt="{BFAC69E1-9971-4896-AEB0-5AACFDF9FC4A}" src="https://github.com/user-attachments/assets/4ae83daa-c7c3-4ad9-bc6a-fda54e850f4a" />
+
 
 ## 📁 项目结构
 my-blog-system/  我的博客系统/
