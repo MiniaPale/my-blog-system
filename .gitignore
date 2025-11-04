@@ -1,3 +1,4 @@
+# ========== 后端 (Django) ==========
 # Django
 *.log
 *.pot
@@ -14,6 +15,18 @@ env/
 venv/
 ENV/
 
+# ========== 前端 (Vue) ==========
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+.vite/
+.env.local
+.env.*.local
+
+# ========== 通用 ==========
 # IDE
 .idea/
 .vscode/
@@ -24,19 +37,11 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Node.js (Vue 前端)
-node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-dist/
-.vite/
-
 # Python
 *.egg-info/
 .pytest_cache/
 .coverage
 htmlcov/
 
-# Database migrations (可选，如果你希望提交迁移文件则删除这行)
-# blog/migrations/
+# Git
+.git/
