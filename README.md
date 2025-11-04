@@ -11,6 +11,8 @@
 <img width="2305" height="1318" alt="{7B7DFD5B-3A4F-424F-8DCB-A2C856C037AA}" src="https://github.com/user-attachments/assets/5eaf8a1c-23e0-4904-89ee-00b0980e0711" />
 
 后端页面：
+<img width="3377" height="1677" alt="{7497409B-FD7E-401E-AFA7-E74481F579F0}" src="https://github.com/user-attachments/assets/80e348d9-838f-42b1-bf96-db1a3ea3810e" />
+
 <img width="2986" height="1601" alt="{BFAC69E1-9971-4896-AEB0-5AACFDF9FC4A}" src="https://github.com/user-attachments/assets/4ae83daa-c7c3-4ad9-bc6a-fda54e850f4a" />
 
 
